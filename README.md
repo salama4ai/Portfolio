@@ -11,4 +11,3 @@ my work portfolio
 
 5- https://github.com/salama4ai/salama4ai-chatbot
 
-6- https://github.com/salama4ai/ML_NLP-Task
