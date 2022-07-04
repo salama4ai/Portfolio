@@ -9,4 +9,6 @@ my work portfolio
 
 4- https://github.com/salama4ai/salama4ai-Finalyst
 
-5- 
+5- https://github.com/salama4ai/salama4ai-chatbot
+
+6- https://github.com/salama4ai/ML_NLP-Task
