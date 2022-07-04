@@ -1,4 +1,4 @@
-# Potfolio
+# Portfolio
 my work portfolio
 
 1- https://github.com/salama4ai/salama4ai-MinaPharm
