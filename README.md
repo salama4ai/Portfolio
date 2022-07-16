@@ -11,3 +11,7 @@ my work portfolio
 
 5- https://github.com/salama4ai/salama4ai-chatbot
 
+- these are sample of the projects that by chance i learned and worked on, if you work on differ projects, kindly feel free to send me an assessment project to prove that i can do it fairly well
+
+
+
