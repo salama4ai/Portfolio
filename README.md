@@ -13,6 +13,8 @@ my work portfolio
 
 6- https://github.com/salama4ai/Researcher-Nile-University
 
+7- https://github.com/salama4ai/Proteinea
+
 - these are sample of the projects that by chance i learned and worked on, if you work on differ projects, kindly feel free to send me an assessment project to prove that i can do it fairly well
 
 #### sample of python practicing on https://www.hackerrank.com/salama4ai
