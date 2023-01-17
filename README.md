@@ -13,9 +13,6 @@ my projects links
 
 6- https://www.github.com/salama4ai/salama4ai-chatbot
 
-7- https://github.com/salama4ai/insideaiml
-
-8- https://github.com/salama4ai/salama4ai_Tagaddod
 
 - these are sample of my projects, kindly feel free to send me any assessment project relate to your work
 
