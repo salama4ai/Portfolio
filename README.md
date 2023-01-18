@@ -12,7 +12,6 @@ my projects sample
 	+ [2- predicting the day submodel](https://github.com/salama4ai/Proteinea/blob/main/model/training_days.ipynb)
     
 	i started by additional preprocessing step according to the submodel needs, then separete training and test sets  fix the imbalanced data by oversampling(only on training set), then prepare data for neural network, and made traing steps finally save the results to csv file, and the trained model
-# 
 
 ## 2- [Topic Extraction (NLP)](https://www.github.com/salama4ai/salama4ai-MinaPharm)
 
@@ -23,8 +22,6 @@ i were provided with a medical related dataset, containing 5k articles. i was re
 -**Tools:** Numpy , Pandas, pytorch, gensim, spacy, scispacy, NLTK, REGEX, Sklearn , Matplotlib
 
 -**steps:** 
-
-###steps:-
 i started by exploratory data analysis(EDA) and preprocessing
     - Convert the text into lowercase
     - Split text into words (Tokenize)
