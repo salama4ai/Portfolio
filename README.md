@@ -28,7 +28,7 @@ i were provided with a medical related dataset, containing 5k articles. i was re
     - Split text into words (Tokenize)
     - Remove the stop loss words
     - Remove the Punctuation, any symbols, and special characters
-    - Normalize the word (I’ll be using Lemmatization for normalization)
+    - Normalize the word (I used Lemmatization for normalization)
 then made [**LDA** implementation with both **gensim** and **sklearn**](https://github.com/salama4ai/salama4ai-MinaPharm/blob/main/scripts/topic%20extraction%20using%20LDA%20model.ipynb)
 
 
