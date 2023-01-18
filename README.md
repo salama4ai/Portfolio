@@ -46,7 +46,7 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 # 4- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
 #### Objective:-
 + the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
-+ #### Tools:- 
+#### Tools:- 
 + **Numpy**, **Pandas**, **Tabula**
 
 # 5- [Rasa Chatbot](https://www.github.com/salama4ai/salama4ai-chatbot)(master-linux firm)
