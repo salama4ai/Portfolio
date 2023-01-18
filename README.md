@@ -21,7 +21,9 @@ my projects sample
 i were provided with a medical related dataset, containing 5k articles. i was required to demonstrate my NLP, data-mining & topic extraction skills to extract the topics that are included within the dataset along with mapping each article to the corresponding topic names. Each document should be matched to the top three most relevant topic names including the matching probability score.
 
 -**Tools:** Numpy , Pandas, pytorch, gensim, spacy, scispacy, NLTK, REGEX, Sklearn , Matplotlib
+
 -**steps:** 
+
 ###steps:-
 i started by exploratory data analysis(EDA) and preprocessing
     - Convert the text into lowercase
