@@ -14,7 +14,23 @@ my projects sample
 	i started by additional preprocessing step according to the submodel needs, then separete training and test sets  fix the imbalanced data by oversampling(only on training set), then prepare data for neural network, and made traing steps finally save the results to csv file, and the trained model
 # 
 
-2- https://www.github.com/salama4ai/salama4ai-MinaPharm
+2- [Topic Extraction (NLP)](https://www.github.com/salama4ai/salama4ai-MinaPharm)
+**Objective:**
+
+i were provided with a medical related dataset, containing 5k articles. i was required to demonstrate my NLP, data-mining & topic extraction skills to extract the topics that are included within the dataset along with mapping each article to the corresponding topic names. Each document should be matched to the top three most relevant topic names including the matching probability score.
+-**Tools:** Numpy , Pandas, pytorch, gensim, spacy, scispacy, NLTK, REGEX, Sklearn , Matplotlib
+-**steps:** 
+###steps:-
+i started by exploratory data analysis(EDA) and preprocessing
+    - Convert the text into lowercase
+    - Split text into words (Tokenize)
+    - Remove the stop loss words
+    - Remove the Punctuation, any symbols, and special characters
+    - Normalize the word (I’ll be using Lemmatization for normalization)
+then made **LDA** implementation with both **gensim** and **sklearn**
+
+
+
 
 3- https://github.com/salama4ai/Researcher-Nile-University
 
