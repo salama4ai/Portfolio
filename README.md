@@ -42,14 +42,16 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
 
-4- https://www.github.com/salama4ai/salama4ai_homzmart
 
-5- https://www.github.com/salama4ai/salama4ai-Finalyst
+# 4- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
+#### Objective:-
++ the goal of this small task is to extract tables from pdf file, re-arrange the data and save it as an excel file, to be easy for furture manipulation
+#### Tools:- 
++ **Numpy**, **Pandas**, **Tabula**
 
-6- https://www.github.com/salama4ai/salama4ai-chatbot
+# 5- [Rasa Chatbot](https://www.github.com/salama4ai/salama4ai-chatbot)(master-linux firm)
 
 
-- these are sample of my projects, kindly feel free to send me any assessment project relate to your work
 
 #### sample of python practicing on https://www.hackerrank.com/salama4ai
 
