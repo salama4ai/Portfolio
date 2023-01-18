@@ -1,7 +1,7 @@
 # Portfolio and courses
 my projects sample
 
-#1- [Deep Learning Project ](https://github.com/salama4ai/Proteinea) (protienea firm)
+# 1- [Deep Learning Project](https://github.com/salama4ai/Proteinea) (protienea firm)
 - in this project, i were asked to generate a **date** given a set of conditions, using any neural network architecture i would like. my input (x) is the conditions on the date, and the output (y) is ANY date that complies with those conditions. This means that, like any generative model, there are many right answers per input x.
 [here](https://github.com/salama4ai/Proteinea/blob/main/problem%20statement/Deep%20Learning%20Challenge.pdf) is the complete problem statement 
 
@@ -16,7 +16,7 @@ my projects sample
     
 	i started by additional preprocessing step according to the submodel needs, then separete training and test sets  fix the imbalanced data by oversampling(only on training set), then prepare data for neural network, and made traing steps finally save the results to csv file, and the trained model
 
-# 2- [Topic Extraction (NLP)project](https://www.github.com/salama4ai/salama4ai-MinaPharm) (MinaPharm firm)
+# 2- [(NLP)Topic Extraction (LDA) project](https://www.github.com/salama4ai/salama4ai-MinaPharm) (MinaPharm firm)
 
 #### Objective:-
 
@@ -38,7 +38,7 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 
 
 
-#3-[RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
+# 3-[RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
 
