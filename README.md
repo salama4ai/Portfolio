@@ -5,7 +5,7 @@ my projects sample
 - in this project, i were asked to generate a **date** given a set of conditions, using any neural network architecture i would like. my input (x) is the conditions on the date, and the output (y) is ANY date that complies with those conditions. This means that, like any generative model, there are many right answers per input x.
 [here](https://github.com/salama4ai/Proteinea/blob/main/problem%20statement/Deep%20Learning%20Challenge.pdf) is the complete problem statement 
 
--**Tools:** **Sklearn** , **Matplotlib** , **Numpy** , **Pandas**, **pytorch**, **imblearn**, **calendar**
+###**Tools:** **Sklearn** , **Matplotlib** , **Numpy** , **Pandas**, **pytorch**, **imblearn**, **calendar**
 
 -**steps:** 
 + started by [Exploratory data analysis, then preprocessing](https://github.com/salama4ai/Proteinea/blob/main/model/preprocessing.ipynb)
@@ -21,7 +21,7 @@ my projects sample
 
 i were provided with a medical related dataset, containing 5k articles. i was required to demonstrate my NLP, data-mining & topic extraction skills to extract the topics that are included within the dataset along with mapping each article to the corresponding topic names. Each document should be matched to the top three most relevant topic names including the matching probability score.
 
--**Tools:** Numpy , Pandas, pytorch, gensim, spacy, scispacy, NLTK, REGEX, Sklearn , Matplotlib
+-**Tools:** **Numpy**, **Pandas**, **pytorch**, **gensim**, **spacy**, **scispacy**, **NLTK**, **REGEX**, **Sklearn**, **Matplotlib**
 
 -**steps:** 
 + i started by [exploratory data analysis(EDA) and preprocessing](https://github.com/salama4ai/salama4ai-MinaPharm/blob/main/scripts/preprocessing.ipynb)
