@@ -1,7 +1,7 @@
 # Portfolio
 my projects sample
 
-## [Deep Learning Project (protienea firm)](https://github.com/salama4ai/Proteinea).
+## [Deep Learning Project ](https://github.com/salama4ai/Proteinea) (protienea firm)
 - in this project, i were asked to generate a **date** given a set of conditions, using any neural network architecture i would like. my input (x) is the conditions on the date, and the output (y) is ANY date that complies with those conditions. This means that, like any generative model, there are many right answers per input x.
 [here](https://github.com/salama4ai/Proteinea/blob/main/problem%20statement/Deep%20Learning%20Challenge.pdf) is the complete problem statement 
 -**Tools:** Sklearn , Matplotlib , Numpy , Pandas, pytorch, imblearn, calendar
@@ -14,7 +14,7 @@ my projects sample
     
 	i started by additional preprocessing step according to the submodel needs, then separete training and test sets  fix the imbalanced data by oversampling(only on training set), then prepare data for neural network, and made traing steps finally save the results to csv file, and the trained model
 
-## 2- [Topic Extraction (NLP)](https://www.github.com/salama4ai/salama4ai-MinaPharm)(MinaPharm firm)
+## 2- [Topic Extraction (NLP)project](https://www.github.com/salama4ai/salama4ai-MinaPharm) (MinaPharm firm)
 
 **Objective:**
 
