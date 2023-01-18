@@ -6,7 +6,7 @@ my projects sample
 [here](https://github.com/salama4ai/Proteinea/blob/main/problem%20statement/Deep%20Learning%20Challenge.pdf) is the complete problem statement 
 
 ### Tools:
-+**Sklearn** , **Matplotlib** , **Numpy** , **Pandas**, **pytorch**, **imblearn**, **calendar**
++ **Sklearn** , **Matplotlib** , **Numpy** , **Pandas**, **pytorch**, **imblearn**, **calendar**
 
 -**steps:** 
 + started by [Exploratory data analysis, then preprocessing](https://github.com/salama4ai/Proteinea/blob/main/model/preprocessing.ipynb)
