@@ -1,4 +1,4 @@
-# Portfolio and courses
+# [Portfolio](https://github.com/salama4ai/Portfolio) and [courses](https://github.com/salama4ai/Courses)
 my projects sample
 
 # 1- [Deep Learning Project](https://github.com/salama4ai/Proteinea) (protienea firm)
@@ -37,22 +37,32 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 
 
 
+# 3- [Rasa Chatbot Project](https://www.github.com/salama4ai/salama4ai-chatbot)(master-linux firm)
 
-# 3-[RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
-+ i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
-+ i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
+#### Objective:-
 
+The goal is to create Rasa Chatbot that can provide answers for users questions about the Population and the capitel city of collecton of countries, where the chatbot use the restful API to get that information from third-party website
+
+#### Tools:-
+
++ **Rasa Framework**
 
 # 4- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
 #### Objective:-
 + the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
+
 #### Tools:- 
 + **Numpy**, **Pandas**, **Tabula**
 
-# 5- [Rasa Chatbot](https://www.github.com/salama4ai/salama4ai-chatbot)(master-linux firm)
-
-# [deployment project](https://github.com/salama4ai/salama4ai_homzmart)
+# 5- [deployment project](https://github.com/salama4ai/salama4ai_homzmart)(Homzmart firm)
 
 
 
-#### sample of python hands-on on https://www.hackerrank.com/salama4ai
+# 6- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
++ i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
++ i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
+
+
+
+
+#### sample of python practicing on https://www.hackerrank.com/salama4ai
