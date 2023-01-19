@@ -63,11 +63,7 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 
 Courses that i studied 
 
-`Note` This list includes **only** the pure machine learning courses (i.e excluded pytorch, data preprocessing, scikit-learn,...etc courses, single videos)
-
-`Note` this list is not completed yet, i continue adding to it
-
-
+`Note` This list includes **only** the pure machine learning courses (i.e excluding pytorch, scikit-learn, data preprocessing,...etc courses, single videos)
 
  * https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN stanford **complete 3 times**
  
@@ -89,12 +85,6 @@ Courses that i studied
  
  - Natural Language Processing with Deep Learning (Winter 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford - half of the course 
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2  **complete 2 times**
-
-- i studied many of these courses in 2018-2019, then i concentrate my effort towards packages needed for data science, preprocessing like numpy, pandas, scikit-learn, pytorch, bueatifulsoup, matplotlib, seaborn, ...
-
-- i get impression from companies that they doesn't concern alot or consider courses projects rather they ask about private projects, that made me not pursuing completing the courses projects, 
-- i repeat some courses as sometimes i forget some details quikly, and didn't complete some other courses as i found myself don't understand very well, or i'm not satisfied with the content/instructor/explanation
-- 
 
 
 # Books
