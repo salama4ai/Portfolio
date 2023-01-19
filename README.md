@@ -37,7 +37,7 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 
 
 
-# 3- [Rasa Chatbot Project](https://www.github.com/salama4ai/salama4ai-chatbot)(master-linux firm)
+# 3- [Rasa Chatbot Project](https://www.github.com/salama4ai/salama4ai-chatbot) (master-linux firm)
 
 #### Objective:-
 
@@ -54,13 +54,22 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 #### Tools:- 
 + **Numpy**, **Pandas**, **Tabula**
 
-# 5- [deployment project](https://github.com/salama4ai/salama4ai_homzmart)(Homzmart firm)
+# 5- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
+#### Tools:-
++ **ElasticSearch**, **Kibana**, **Flask**, **Numpy**, **Pandas**, **requests**, 
 
 
 
 # 6- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
+
+# 7- [(NLP) Named Entity Recognition Task](https://github.com/salama4ai/insideaiml) (Insideaiml firm)
+
+#### Tools:-
++ **Pandas**, **Numpy**, **Spacy**, **String**, **BeautifulSoup**, **REGEX**, **Geonamescache**
+#### Objective:-
++ the goal of this task is to 
 
 
 
