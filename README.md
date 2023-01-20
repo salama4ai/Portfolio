@@ -47,12 +47,14 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 
 + **Rasa Framework**
 
-# 4- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
-#### Objective:-
-+ the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
+# 4- [(NLP) Named Entity Recognition Task](https://github.com/salama4ai/insideaiml) (Insideaiml firm)
 
-#### Tools:- 
-+ **Numpy**, **Pandas**, **Tabula**
+#### Tools:-
++ **Pandas**, **Numpy**, **Spacy**, **String**, **BeautifulSoup**, **REGEX**, **Geonamescache**
+#### Objective:-
++ the goal of this task is to Create web app through Flask and create POST API and post API will take Name(text) as input parameter and should ruturn is it City or Person in JSON format. it's very simple task sent to as an assessment task from Insideaiml firm.
+#### Steps:-
++ i started with preprocessing data, then use Spacy and Geonamescache frameworks to add classification to every column determine wether the column contains person entity or city entity.
 
 # 5- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
 #### Tools:-
@@ -64,13 +66,13 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
 
-# 7- [(NLP) Named Entity Recognition Task](https://github.com/salama4ai/insideaiml) (Insideaiml firm)
 
-#### Tools:-
-+ **Pandas**, **Numpy**, **Spacy**, **String**, **BeautifulSoup**, **REGEX**, **Geonamescache**
+# 7- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
 #### Objective:-
-+ the goal of this task is to 
++ the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
 
+#### Tools:- 
++ **Numpy**, **Pandas**, **Tabula**
 
 
 
