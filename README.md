@@ -37,7 +37,7 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 
 
 
-# 3- [Rasa Chatbot Project](https://www.github.com/salama4ai/salama4ai-chatbot) (master-linux firm)
+# 3- [Rasa Chatbot Project](https://github.com/salama4ai/Rasa-chatbot-) (master-linux firm)
 
 #### Objective:-
 
