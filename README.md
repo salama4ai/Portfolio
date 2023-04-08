@@ -61,8 +61,7 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 #### Tools:-
 + **Mycroft-core**, **Mycroft-Precise**
 #### Objective:-
-+ i train this tool to triger when it hear "hey-savant" word.
-+ Mycroft Precise is fully open source and can be trined to recognize anything from a name to a cough. Precise is a wake word listener. The software monitors an audio stream ( usually a microphone ) and when it recognizes a specific phrase it triggers an event. When the software recognizes this phrase it puts the rest of Mycroft's software into command mode and waits for a command from the person using the device. 
++ Mycroft Precise is fully open source and can be trined to recognize anything from a name to a cough. Precise is a wake word listener. The software monitors an audio stream ( usually a microphone ) and when it recognizes a specific phrase it triggers an event. When the software recognizes this phrase it puts the rest of Mycroft's software into command mode and waits for a command from the person using the device. where i trained this tool to triger when it hear "hey-savant".
 
 
 # 6- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
