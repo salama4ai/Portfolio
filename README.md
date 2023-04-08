@@ -56,18 +56,27 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 #### Steps:-
 + i started with preprocessing data, then use Spacy and Geonamescache frameworks to add classification to every column determine wether the column contains person entity or city entity.
 
-# 5- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
+# 5- [(NLP) wake word listener](https://github.com/salama4ai/Mycroft-project-salama4ai) (Alkawarizmi firm)
+
+#### Tools:-
++ **Mycroft-core**, **Mycroft-Precise** this tool is an open-source 
+#### Objective:-
++ i train this tool to triger when it hear "hey-savant" word.
++ Mycroft Precise is fully open source and can be trined to recognize anything from a name to a cough. Precise is a wake word listener. The software monitors an audio stream ( usually a microphone ) and when it recognizes a specific phrase it triggers an event. When the software recognizes this phrase it puts the rest of Mycroft's software into command mode and waits for a command from the person using the device. 
+
+
+# 6- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
 #### Tools:-
 + **ElasticSearch**, **Kibana**, **Flask**, **Numpy**, **Pandas**, **requests**, 
 
 
 
-# 6- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
+# 7- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
 
 
-# 7- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
+# 8- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
 #### Objective:-
 + the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
 
