@@ -1,7 +1,17 @@
 # [Portfolio](https://github.com/salama4ai/Portfolio) and [courses](https://github.com/salama4ai/Courses)
 my projects sample
 
-# 1- [Rasa Chatbot Project](https://github.com/salama4ai/Rasa-chatbot-) (master-linux firm)
+# 1- [deep neural network regression project](https://github.com/salama4ai/AI-project)
+
+#### Objective:-
+
+ The goal of this project is to implement a deep neural network model for a regression problem, the goal of this model is to predict the output of a mosfet transistor chip based on some given features and equation with some unknown variables
+ 
+#### Tools:-
++ **Sklearn** , **Matplotlib** , **Numpy** , **Pandas**, **pytorch**, **Tensorflow**, **keras**
+
+
+# 2- [Rasa Chatbot Project](https://github.com/salama4ai/Rasa-chatbot-) (master-linux firm)
 
 #### Objective:-
 
@@ -12,7 +22,7 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 + **Rasa Framework**
 
 
-# 2- [(NLP) wake word listener](https://github.com/salama4ai/Mycroft-project-salama4ai) (Alkawarizmi firm)
+# 3- [(NLP) wake word listener](https://github.com/salama4ai/Mycroft-project-salama4ai) (Alkawarizmi firm)
 
 #### Tools:-
 + **Mycroft-core**, **Mycroft-Precise**
@@ -22,7 +32,7 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
 + Mycroft Precise is fully open source and can be trined to recognize anything from a name to a cough. Precise is a wake word listener. The software monitors an audio stream ( usually a microphone ) and when it recognizes a specific phrase it triggers an event. When the software recognizes this phrase it puts the rest of Mycroft's software into command mode and waits for a command from the person using the device. where i trained this tool to triger when it hear "hey-savant".
 
 
-# 3- [Deep Learning Project](https://github.com/salama4ai/Proteinea) (protienea firm)
+# 4- [Deep Learning Project](https://github.com/salama4ai/Proteinea) (protienea firm)
 - in this project, i were asked to generate a **date** given a set of conditions, using any neural network architecture i would like. my input (x) is the conditions on the date, and the output (y) is ANY date that complies with those conditions. This means that, like any generative model, there are many right answers per input x.
 [here](https://github.com/salama4ai/Proteinea/blob/main/problem%20statement/Deep%20Learning%20Challenge.pdf) is the complete problem statement 
 
@@ -37,7 +47,7 @@ The goal is to create Rasa Chatbot that can provide answers for users questions 
     
 	i started by additional preprocessing step according to the submodel needs, then separete training and test sets  fix the imbalanced data by oversampling(only on training set), then prepare data for neural network, and made traing steps finally save the results to csv file, and the trained model
 
-# 4- [(NLP)Topic Extraction (LDA) project](https://www.github.com/salama4ai/salama4ai-MinaPharm) (MinaPharm firm)
+# 5- [(NLP)Topic Extraction (LDA) project](https://www.github.com/salama4ai/salama4ai-MinaPharm) (MinaPharm firm)
 
 #### Objective:-
 
@@ -57,7 +67,7 @@ i were provided with a medical related dataset, containing 5k articles. i was re
 then made [**LDA** implementation with both **gensim** and **sklearn**](https://github.com/salama4ai/salama4ai-MinaPharm/blob/main/scripts/topic%20extraction%20using%20LDA%20model.ipynb)
 
 
-# 5- [(NLP) Named Entity Recognition Task](https://github.com/salama4ai/insideaiml) (Insideaiml firm)
+# 6- [(NLP) Named Entity Recognition Task](https://github.com/salama4ai/insideaiml) (Insideaiml firm)
 
 #### Tools:-
 + **Pandas**, **Numpy**, **Spacy**, **String**, **BeautifulSoup**, **REGEX**, **Geonamescache**
@@ -66,18 +76,18 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 #### Steps:-
 + i started with preprocessing data, then use Spacy and Geonamescache frameworks to add classification to every column determine wether the column contains person entity or city entity.
 
-# 6- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
+# 7- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
 #### Tools:-
 + **ElasticSearch**, **Kibana**, **Flask**, **Numpy**, **Pandas**, **requests**, 
 
 
 
-# 7- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
+# 8- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
 
 
-# 8- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
+# 9- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
 #### Objective:-
 + the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
 
