@@ -76,18 +76,27 @@ then made [**LDA** implementation with both **gensim** and **sklearn**](https://
 #### Steps:-
 + i started with preprocessing data, then use Spacy and Geonamescache frameworks to add classification to every column determine wether the column contains person entity or city entity.
 
-# 7- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
+
+# 7- [DeepLearning Classification- project](https://github.com/salama4ai/Devices-Price-Classification-System)
+#### Objective:-
++ the goal of this task is to classify the price of smart phones based on them features
+
+#### Tools:- 
++ **Java**, **Python**, **Spring Boot**, **Pytorch**, **Tensorflow**, **Keras**, **pandas**, **maplotlib**, **numpy**
+
+
+# 8- [Data-Manipulation(Elasticsearch) project](https://github.com/salama4ai/salama4ai_homzmart) (Homzmart firm)
 #### Tools:-
 + **ElasticSearch**, **Kibana**, **Flask**, **Numpy**, **Pandas**, **requests**, 
 
 
 
-# 8- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
+# 9- [RPA project](https://github.com/salama4ai/Researcher-Nile-University) (Nile University)
 + i was tasked with devising a robotic system that can paint patterns on athletic fields and roadways. the chosen platform is differentially driven robot with a paint sprayer mounted a distance of "L" from the center along 
 + i asked to implement a control low to drive the robot such that the location of the paint sprayer follows the trajectory given and described by given parametric equations
 
 
-# 9- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
+# 10- [Data wrangling task](https://www.github.com/salama4ai/salama4ai-Finalyst)(Finalyst firm)
 #### Objective:-
 + the goal of this small task is to extract tables from pdf file, clean the data and make some preprocessing then save it as an excel file, to be easy for additional manipulation
 
